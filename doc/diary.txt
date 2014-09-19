@@ -1,1 +1,4 @@
-first entry: bla
+19.09.14 team setup
+team members: vgj1, erni, bert, kruemel
+todos:
+ - send email to prof
